@@ -1,5 +1,7 @@
 
-[video(video-ZNJ3vfCK-1780554879543)(type-csdn)(url-https://live.csdn.net/v/embed/529604)(image-https://i-blog.csdnimg.cn/direct/f5afe9dea17949c0927531de58575ed7.png)(title-智慧养老服务系统)]
+
+# 资料获取  点击  [**《基于 Spring Boot 与 Vue 智慧养老服务系统》资料**](https://nwqbsc0rm1n.feishu.cn/docx/QnFZdiPRloKSzwxY7hdc6MLUnlb)
+---
 
 ## 一、项目概述
 
